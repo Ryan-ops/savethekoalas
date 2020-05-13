@@ -1,5 +1,5 @@
-.post{
-    width: 50%;
+.post-img{
+    max-width:50%;
 /*    height: 80%;*/
     position:relative;
     align-content: center;
@@ -8960,7 +8960,7 @@ textarea.form-control {
     background-position: top center; }
     @media (min-width: 992px) {
       .testimony-section .testimony-img {
-        margin-top: -150px; } }
+        margin-top: -120px; } }
   .testimony-section .overlay {
     position: absolute;
     top: 0;
