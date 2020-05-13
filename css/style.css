@@ -1,9 +1,4 @@
-.post-img{
-    max-width:50%;
-/*    height: 80%;*/
-    position:relative;
-    align-content: center;
-}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
