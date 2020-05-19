@@ -3421,6 +3421,7 @@ input[type="button"].btn-block {
   display: block; }
 
 .navbar {
+    
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -3436,6 +3437,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 1rem; }
   .navbar > .container,
   .navbar > .container-fluid {
+      background-color:#333; 
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -8567,12 +8569,12 @@ h1, h2, h3, h4, h5,
     font-weight: 900; }
   @media (min-width: 992px) {
     .services.active {
-      background: #ffb400;
+/*      background: #ffb400;*/
       color: #000000; }
       .services.active .icon span {
         color: #fff; } }
   .services:hover, .services:focus {
-    background: #ffb400;
+/*    background: #ffb400;*/
     color: #000000; }
     .services:hover .icon span, .services:focus .icon span {
       color: #fff; }

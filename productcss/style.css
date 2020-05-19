@@ -37,9 +37,9 @@ h1#logo a{ display:block; height:61px; text-indent: -4000px; background:url(imag
 #navigation ul li a.active { color:#ffd900; }
 
 
-.shell { width:980px; margin:0 auto; }
+.shell { width:1000px; margin:0 auto; }
 
-#top { height:479px; background:#000; }
+#top { height:500px; background:#000; }
 #header { height:61px; }
 
 #slider { width:980px; height:418px; position:relative; overflow:hidden; }
@@ -73,7 +73,7 @@ h1#logo a{ display:block; height:61px; text-indent: -4000px; background:url(imag
 
 #content { padding-top:20px; }
 
-.tabs { height:36px; }
+.tabs { height:40px; }
 .tabs ul{ list-style-type: none; font-size:14px; text-transform: uppercase; font-weight: bold; }
 .tabs ul li{ float:left; display:inline; margin-right:1px; }
 .tabs ul li a,
@@ -95,7 +95,7 @@ h1#logo a{ display:block; height:61px; text-indent: -4000px; background:url(imag
 .items { position:relative; width:960px; margin-right:-20px; padding-bottom:5px; }
 .items ul{ list-style-type: none;}
 .items ul .image{ text-align: center;}
-.items ul li{ float:left; border:dashed 1px #cfcfcf; width:194px; margin:0 18px 12px 0; padding:13px; }
+.items ul li{ float:left; border:dashed 1px #cfcfcf; width:400px; margin:0 18px 12px 0; padding:13px; }
 .items ul li p span{ color:#890000}
 .items ul li p.price{ padding-top:15px; }
 .items ul li p.price strong{ color:#890000; font-size:14px;}
